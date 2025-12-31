@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Saif Azad! 👋
+### Full Stack Developer | React.js | Node.js | MySQL Specialist
 
-<!--
-**Saifazad/Saifazad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate developer who loves building modern web applications. Currently, I'm managing the digital infrastructure for **Vidya Institute**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 My Tech Stack
+- **Frontend:** React.js, Tailwind CSS, JavaScript (ES6+)
+- **Backend:** Node.js, Express.js
+- **Database:** MySQL, MongoDB
+- **Tools:** Git, GitHub, Postman, Netlify, Render
+
+---
+---
+
+### 🔗 Connect with me
+- 📧 Email: saifazad000@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/saifazad/
