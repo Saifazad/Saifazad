@@ -1,4 +1,4 @@
-# Hi there, I'm Saif Azad! 👋
+# Hi there, I'm Saif Ali! 👋
 ### Full Stack Developer | React.js | Node.js | MySQL Specialist
 
 I am a passionate developer who loves building modern web applications. Currently, I'm managing the digital infrastructure for **Vidya Institute**.
