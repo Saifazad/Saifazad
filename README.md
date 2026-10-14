@@ -6,7 +6,7 @@ I am a passionate software developer who loves building scalable, modern web app
 
 ---
 
-### 🚀 Top Projects
+###  Top Projects
 
 #### 🦷 [Apex Dental Clinic — Hospital CRM & EHR System](https://dental-crm01.vercel.app)
 * Full-stack hospital management system featuring **real-time calendar scheduling**, **32-teeth interactive digital odontogram**, **AI emergency triage**, **1-click WhatsApp reminders**, and **printable billing receipts**.
